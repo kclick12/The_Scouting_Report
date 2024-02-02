@@ -31,7 +31,7 @@ export const managers = [
       "location": "San Antonio", // (optional)
       "bio": "Curator and caretaker of the league. Never won it. Typical.",
       "photo": "/managers/Kyle.png", // square ratio recommended (no larger than 500x500)
-      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ind", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "Rival": {
@@ -54,7 +54,7 @@ export const managers = [
       "location": "Las Vegas", // (optional)
       "bio": "One hit wonders still make good money.",
       "photo": "/managers/Casey.png", // square ratio recommended (no larger than 500x500)
-      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "den", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "Rival": {
@@ -77,7 +77,7 @@ export const managers = [
       "location": "Doha", // (optional)
       "bio": "I thought this was the real football.",
       "photo": "/managers/Tarek.png", // square ratio recommended (no larger than 500x500)
-      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "hou", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "Rival": {
@@ -100,7 +100,7 @@ export const managers = [
       "location": "Kansas City", // (optional)
       "bio": "My friends call me Nips. You're not my friends.",
       "photo": "/managers/Nick.png", // square ratio recommended (no larger than 500x500)
-      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "Rival": {
@@ -123,7 +123,7 @@ export const managers = [
       "location": "Wichita", // (optional)
       "bio": "I bleed red, white, and blue.",
       "photo": "/managers/John.png", // square ratio recommended (no larger than 500x500)
-      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "Rival": {
@@ -146,7 +146,7 @@ export const managers = [
       "location": "Austin", // (optional)
       "bio": "If you're not last, you're first.",
       "photo": "/managers/Russell.png", // square ratio recommended (no larger than 500x500)
-      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "Rival": {
@@ -169,7 +169,7 @@ export const managers = [
       "location": "Kansas City", // (optional)
       "bio": "Old balls of the league.",
       "photo": "/managers/Collin.png", // square ratio recommended (no larger than 500x500)
-      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "Rival": {
@@ -192,7 +192,7 @@ export const managers = [
       "location": "Bahstahn", // (optional)
       "bio": "I could be seeing two of my teams bringing home a championship in the same year.",
       "photo": "/managers/Dan.png", // square ratio recommended (no larger than 500x500)
-      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "Rival": {
@@ -215,7 +215,7 @@ export const managers = [
       "location": "Kansas City", // (optional)
       "bio": "I uncovered that the Sheriff shot Bob Marley.",
       "photo": "/managers/Aaron.png", // square ratio recommended (no larger than 500x500)
-      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "Rival": {
@@ -238,7 +238,7 @@ export const managers = [
       "location": "San Antonio", // (optional)
       "bio": "I've never lost a footrace.",
       "photo": "/managers/Roger.png", // square ratio recommended (no larger than 500x500)
-      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "Rival": {
