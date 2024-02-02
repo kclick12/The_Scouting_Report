@@ -96,7 +96,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
+    <h1 class="noUnderscore">ARMCHAIR QUARTERBACKS CONSTITUTION</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
