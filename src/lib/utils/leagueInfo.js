@@ -34,8 +34,8 @@ export const managers = [
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ind", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "Rival": {
-        name: "Casey Allen", // Can be anything (usually your rival's name)
+      "rival": {
+        name: "Casey", // Can be anything (usually your rival's name)
         link: 1, // manager array number within this array, or null to link back to all managers page
         image: "/managers/Casey.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
@@ -57,8 +57,8 @@ export const managers = [
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "den", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "Rival": {
-        name: "Tarek Khalidi", // Can be anything (usually your rival's name)
+      "rival": {
+        name: "Tarek", // Can be anything (usually your rival's name)
         link: 2, // manager array number within this array, or null to link back to all managers page
         image: "/managers/Tarek.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
@@ -80,8 +80,8 @@ export const managers = [
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "hou", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "Rival": {
-        name: "Nick Flaucher", // Can be anything (usually your rival's name)
+      "rival": {
+        name: "Nick", // Can be anything (usually your rival's name)
         link: 3, // manager array number within this array, or null to link back to all managers page
         image: "/managers/Nick.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
@@ -103,8 +103,8 @@ export const managers = [
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "Rival": {
-        name: "John Thornton", // Can be anything (usually your rival's name)
+      "rival": {
+        name: "John", // Can be anything (usually your rival's name)
         link: 4, // manager array number within this array, or null to link back to all managers page
         image: "/managers/John.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
@@ -126,8 +126,8 @@ export const managers = [
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "Rival": {
-        name: "Russell Johnson", // Can be anything (usually your rival's name)
+      "rival": {
+        name: "Russell", // Can be anything (usually your rival's name)
         link: 5, // manager array number within this array, or null to link back to all managers page
         image: "/managers/Russell.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
@@ -149,8 +149,8 @@ export const managers = [
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "Rival": {
-        name: "Collin Click", // Can be anything (usually your rival's name)
+      "rival": {
+        name: "Collin", // Can be anything (usually your rival's name)
         link: 6, // manager array number within this array, or null to link back to all managers page
         image: "/managers/Collin.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
@@ -172,8 +172,8 @@ export const managers = [
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "Rival": {
-        name: "Nick Flaucher", // Can be anything (usually your rival's name)
+      "rival": {
+        name: "Nick", // Can be anything (usually your rival's name)
         link: 3, // manager array number within this array, or null to link back to all managers page
         image: "/managers/Nick.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
@@ -195,8 +195,8 @@ export const managers = [
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "Rival": {
-        name: "Aaron Thompson", // Can be anything (usually your rival's name)
+      "rival": {
+        name: "Aaron", // Can be anything (usually your rival's name)
         link: 8, // manager array number within this array, or null to link back to all managers page
         image: "/managers/Aaron.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
@@ -218,8 +218,8 @@ export const managers = [
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "Rival": {
-        name: "Roger Bernal", // Can be anything (usually your rival's name)
+      "rival": {
+        name: "Roger", // Can be anything (usually your rival's name)
         link: 9, // manager array number within this array, or null to link back to all managers page
         image: "/managers/Roger.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
@@ -241,8 +241,8 @@ export const managers = [
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "Rival": {
-        name: "Nick Flaucher", // Can be anything (usually your rival's name)
+      "rival": {
+        name: "Nick", // Can be anything (usually your rival's name)
         link: 3, // manager array number within this array, or null to link back to all managers page
         image: "/managers/Nick.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
