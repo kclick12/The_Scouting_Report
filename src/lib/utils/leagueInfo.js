@@ -253,7 +253,7 @@ export const managers = [
       "tradingScale": 5, // 1 - 10 (optional)
       "preferredContact": "WhatsApp",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-  {
+    {
       // "roster": 11,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "738582193848352768",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Angel Martinez",
@@ -275,7 +275,7 @@ export const managers = [
       "philosophy": "Stack em up and ride the bench points in case of a tie.", // (optional)
       "tradingScale": 5, // 1 - 10 (optional)
       "preferredContact": "WhatsApp",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
+    }
   ]
   
   
