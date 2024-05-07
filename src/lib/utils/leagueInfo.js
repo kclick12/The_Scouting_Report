@@ -121,7 +121,7 @@ export const managers = [
       "name": "Angel Martinez",
       // "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "San Antonio", // (optional)
-      "bio": "I hoarde and trade all day.",
+      "bio": "I hoarde players for trades I never make.",
       "photo": "/managers/Angel.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
