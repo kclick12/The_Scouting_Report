@@ -252,7 +252,7 @@ export const managers = [
       "philosophy": "Conservative moves, dependable results.", // (optional)
       "tradingScale": 5, // 1 - 10 (optional)
       "preferredContact": "WhatsApp",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    };
+    },
   ]
   
   
