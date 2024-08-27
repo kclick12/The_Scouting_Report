@@ -8,10 +8,10 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 /*   STEP 2   */
 export const homepageText = `
   <p>A message from your 2023 Champion:</p>
-  <p>**Hi, All</p>
+  <p><b>Hi, All</p>
   <p>I wanted to send a quick note as your champion! It's been fun beating ass. Especially Nicc Floccer--I'd like to remind him that Amari Wins Bro No Rematch!! Snap a pic in that t-shirt for me dude!</p>
   <p>Cheers and thanks again,</p>
-  <p>T**</p>
+  <p>T</b></p>
 `;
 
 /*   STEP 3   */
